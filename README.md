@@ -63,6 +63,6 @@
 
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=higormn&show_icons=true&theme=dark&locale=en&layout=compact" alt="higormn" width="300" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=higormn&show_icons=true&theme=dark&locale=en" alt="higormn" width="300" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=higormn&theme=dark" alt="higormn" width="300" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=higormn&show_icons=true&theme=dark&locale=en" alt="higormn" width="300" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=higormn&theme=dark" alt="higormn" width="300" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=higormn&show_icons=true&theme=dark&locale=en&layout=compact" alt="higormn" width="300" /></p>
