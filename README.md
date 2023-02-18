@@ -1,19 +1,19 @@
 <h1 align="center">Olá 👋, Eu sou Higor Maranhão Nunes</h1>
 <h3 align="center">Sou desenvolvedor fullstack, e moro no Brasil 👨🏽‍💻</h3><br />
 
+Sou um desenvolvedor apaixonado por tecnologia e jogos, sempre buscando soluções inovadoras e criativas. Tenho uma formação parcial em Análise e Desenvolvimento de Sistemas pela Unopar e atualmente estou me formando como desenvolvedor Full Stack pela Trybe.
+
+Como pessoa, sou empático, adaptável, criativo e paciente, sempre buscando compreender os problemas do negócio e propor soluções para agregar valor aos produtos. Meu objetivo é continuar me desenvolvendo e aprendendo em minha carreira para contribuir de forma eficaz em projetos futuros
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higormn&label=Profile%20views&color=0e75b6&style=flat" alt="higormn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=higormn" alt="higormn" /></a> </p>
-
-- 🌱 Estou aprendendo **back-end na Trybe**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/HigorMN](https://github.com/HigorMN)
 
 - 📫 Como chegar até mim **higor.maranhao2000@gmail.com**
 
-- 📄 Conheça minhas experiências [https://higormn.github.io/](https://higormn.github.io/)
-
-- ⚡ Curiosidade **Minha risada é parecida com a do Muttley**
+- ⚡ Curiosidade **Minha risada é parecida com a do Muttley do desenho muttley pegue o pombo**
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
