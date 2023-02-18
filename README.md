@@ -13,7 +13,7 @@ Como pessoa, sou empático, adaptável, criativo e paciente, sempre buscando com
 
 - 📫 Como chegar até mim **higor.maranhao2000@gmail.com**
 
-- ⚡ Curiosidade **Minha risada é parecida com a do Muttley do desenho muttley pegue o pombo**
+- ⚡ Curiosidade **Minha risada é parecida com a do Muttley do desenho pegue o pombo**
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
