@@ -1,71 +1,59 @@
-<h1 align="center">Olá 👋, Eu sou Higor Maranhão Nunes</h1>
-<h3 align="center">Sou desenvolvedor fullstack, e moro no Brasil 👨🏽‍💻</h3><br />
+# 👋 Olá, eu sou Higor Maranhão Nunes!
 
-Sou um desenvolvedor apaixonado por tecnologia e jogos, sempre buscando soluções inovadoras e criativas. Tenho uma formação parcial em Análise e Desenvolvimento de Sistemas pela Unopar e atualmente estou me formando como desenvolvedor Full Stack pela Trybe.
+💻 Desenvolvedor Full Stack | 🎮 Apaixonado por tecnologia e jogos | 🇧🇷 Brasil  
 
-Como pessoa, sou empático, adaptável, criativo e paciente, sempre buscando compreender os problemas do negócio e propor soluções para agregar valor aos produtos. Meu objetivo é continuar me desenvolvendo e aprendendo em minha carreira para contribuir de forma eficaz em projetos futuros
+Sou um desenvolvedor Full Stack dedicado a criar soluções inovadoras e impactantes. Com uma formação parcial em **Análise e Desenvolvimento de Sistemas** pela **Unopar** e formação em **Desenvolvimento Full Stack** pela **Trybe**, busco sempre aprimorar minhas habilidades e aprender novas tecnologias.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=higormn&label=Profile%20views&color=0e75b6&style=flat" alt="higormn" /> </p>
+Além do código, sou uma pessoa **empática, criativa e adaptável**, sempre focado em compreender os desafios do negócio e entregar soluções de valor.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=higormn" alt="higormn" /></a> </p>
+---
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/HigorMN](https://github.com/HigorMN)
+## 🚀 Tecnologias & Ferramentas  
 
-- 📫 Como chegar até mim **higor.maranhao2000@gmail.com**
+### 🖥️ Front-end  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
 
-- ⚡ Curiosidade **Minha risada é parecida com a do Muttley do desenho pegue o pombo**
+### ⚙️ Back-end  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
-<h3 align="center">Conecte-se comigo:</h3>
+### 🧪 Testes  
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)  
+
+### 🔧 Ferramentas  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
+
+---
+
+## 📈 Estatísticas  
+
 <p align="center">
-<a href="https://linkedin.com/in/higor-maranhao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="higor-maranhao" height="30" width="40" /></a>
-<a href="https://instagram.com/higormaranhao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="higormaranhao" height="30" width="40" /></a>
- <a href="mailto: higor.maranhao2000@gmail.com" target="blank"><img align="center" src="https://www.kibrispdr.org/data/601/gmail-icon-18.jpg" alt="higormaranhao" height="40" width="40" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higormn&show_icons=true&theme=dark&hide=stars" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=higormn&theme=dark" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higormn&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
-<br />
+---
 
-<h3 align="center">Linguagens e Ferramentas:</h3>
-<table align="center">
-  <tr>
-    <th>Linguagens</th>
-    <th>Front-End</th>
-    <th>Back-end</th>
-    <th>Tests</th>
-    <th>Others</th>
-  </tr>
-  <tr>
-    <td>
-     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </td>
-    <td>
-      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-      <img align="center" alt="bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    </td>
-    <td>
-       <img align="center" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-       <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-       <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-       <img align="center" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-       <img align="center" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40"/>
-    </td>
-    <td>
-       <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-    </td>
-    <td>
-       <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-       <img align="center" alt="vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-       <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    </td>
-  </tr>
-</table>
+## 📬 Contato  
 
-<br />
+📧 **E-mail:** [higor.maranhao2000@gmail.com](mailto:higor.maranhao2000@gmail.com)  
+🌐 **LinkedIn:** [linkedin.com/in/higor-maranhao](https://linkedin.com/in/higor-maranhao)  
+📷 **Instagram:** [@higormaranhao](https://instagram.com/higormaranhao)  
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=higormn&theme=dark" alt="higormn" width="300" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=higormn&show_icons=true&theme=dark&locale=en" alt="higormn" width="300" /></p>
+⚡ **Curiosidade:** Minha risada lembra a do Muttley do desenho *"Pegue o Pombo"!* 😆  
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=higormn&show_icons=true&theme=dark&locale=en&layout=compact" alt="higormn" width="300" /></p>
+---
+
+### 🎯 Meu objetivo  
+Continuar evoluindo como desenvolvedor e contribuir para projetos inovadores que gerem impacto e valor para as pessoas. 🚀
