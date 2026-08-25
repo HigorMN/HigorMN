@@ -27,7 +27,7 @@
 
 ## Olá! Eu sou o Higor 👋
 
-Sou **Full Stack Developer** com mais de **3 anos de experiência**, formação em Desenvolvimento Web pela **Trybe** e trajetória construída no desenvolvimento de aplicações de negócio.
+Sou **Full Stack Developer** com mais de **4 anos de experiência**, formação em Desenvolvimento Web pela **Trybe** e trajetória construída no desenvolvimento de aplicações de negócio.
 
 Atualmente trabalho como **Frontend Developer na Ultracar**, contribuindo para um ERP voltado ao setor de reparação automotiva. Atuo em módulos financeiros, estoque, CRM e operações, com atenção especial a fluxos complexos, componentização, acessibilidade e qualidade da experiência.
 
