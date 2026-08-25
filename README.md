@@ -1,117 +1,141 @@
-<!-- HEADER -->
-<h1 align="center">👋 Olá, eu sou <strong>Higor Maranhão Nunes</strong></h1>
-
-<p align="center">
-  💻 <strong>Desenvolvedor Full Stack</strong> &nbsp;|&nbsp; 🎮 <strong>Apaixonado por tecnologia e jogos</strong> &nbsp;|&nbsp; 🇧🇷 <strong>Brasil</strong>
-</p>
-
----
-
-<!-- SOBRE MIM -->
-<p align="center">
-Sou um <strong>Desenvolvedor Full Stack</strong> com mais de <strong>3 anos de experiência</strong> criando soluções digitais modernas, escaláveis e centradas no usuário.  
-Tenho formação em <strong>Desenvolvimento Full Stack pela Trybe</strong> e formação parcial em <strong>Análise e Desenvolvimento de Sistemas pela Unopar</strong>.  
-</p>
-
-<p align="center">
-Com um olhar voltado para <strong>UX e performance</strong>, busco transformar ideias em produtos de alto impacto.  
-Sou uma pessoa <strong>empática, criativa e adaptável</strong>, sempre focada em entregar valor real através do código.
-</p>
-
----
-
-<!-- TECNOLOGIAS -->
-<h2 align="center">🚀 Tecnologias & Ferramentas</h2>
+<!-- README de perfil: github.com/HigorMN -->
 
 <div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071526,55:0f4966,100:1e3a8a&text=Higor%20Maranh%C3%A3o%20Nunes&fontColor=eaf7ff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20.NET%2FC%23&descAlignY=59&descSize=17&animation=fadeIn"
+    alt="Higor Maranhão Nunes — Full Stack Developer"
+  />
 
-### 🎨 Front-end  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+  <p>
+    Desenvolvo produtos web que equilibram <strong>experiência do usuário</strong>,
+    <strong>arquitetura sustentável</strong> e <strong>performance</strong>.
+  </p>
 
-### ⚙️ Back-end  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-### 🧪 Testes  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
-
-### 🛠️ Ferramentas  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
+  <p>
+    <a href="https://higormn.github.io/">
+      <img src="https://img.shields.io/badge/Portfólio-0F4966?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+    </a>
+    <a href="https://www.linkedin.com/in/higor-maranhao/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:higor.maranhao2000@gmail.com">
+      <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    </a>
+  </p>
 </div>
 
----
+## Olá! Eu sou o Higor 👋
 
-<!-- ESTATÍSTICAS -->
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+Sou **Full Stack Developer** com mais de **3 anos de experiência**, formação em Desenvolvimento Web pela **Trybe** e trajetória construída no desenvolvimento de aplicações de negócio.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higormn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Estatísticas do GitHub de Higor" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=higormn&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
+Atualmente trabalho como **Frontend Developer na Ultracar**, contribuindo para um ERP voltado ao setor de reparação automotiva. Atuo em módulos financeiros, estoque, CRM e operações, com atenção especial a fluxos complexos, componentização, acessibilidade e qualidade da experiência.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higormn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas" />
-</p>
+| | |
+|---|---|
+| **Atuação** | Desenvolvimento Full Stack com forte especialização em Frontend |
+| **Produtos** | SaaS, ERP e sistemas com regras de negócio complexas |
+| **Foco técnico** | React, TypeScript, Node.js e .NET/C# |
+| **Princípios** | UX, arquitetura, performance, acessibilidade e código sustentável |
+| **Localização** | Brasil 🇧🇷 |
 
----
+## O que eu entrego
 
-<!-- CONTATO -->
-<h2 align="center">📬 Onde me encontrar</h2>
+- Interfaces responsivas e acessíveis, pensadas a partir do fluxo real do usuário.
+- Componentes reutilizáveis e padrões que melhoram consistência e produtividade.
+- Formulários e jornadas complexas com validação, clareza e boa manutenção.
+- Integração entre frontend, APIs REST, serviços e bancos de dados relacionais.
+- Colaboração em decisões de arquitetura, modularização e evolução de produtos legados.
+- Comunicação próxima com produto, design e engenharia para transformar regras de negócio em soluções simples de usar.
 
-<p align="center">
-  <a href="mailto:higor.maranhao2000@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/higor-maranhao" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/higormaranhao" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+Na Ultracar, também participo de discussões arquiteturais e integrações com parceiros nacionais e globais, incluindo **Bosch** e **ZF**.
 
----
-
-<!-- OBJETIVO -->
-<h2 align="center">🎯 Objetivo Profissional</h2>
+## Stack principal
 
 <p align="center">
-Seguir evoluindo como desenvolvedor e contribuir para projetos que unam <strong>usabilidade, performance e propósito</strong>.  
-Tenho como foco aprimorar constantemente a <strong>experiência do usuário (UX)</strong> e criar interfaces que sejam <strong>funcionais e intuitivas</strong>.  
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET e C#" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="APIs REST" />
 </p>
 
-<p align="center">
-  <em>💡 “A melhor linha de código é aquela que resolve um problema real com clareza e elegância.”</em>
-</p>
+<details>
+  <summary><strong>Ver ecossistema completo</strong></summary>
+  <br />
 
----
+  **Frontend e produto**
 
-<!-- CURIOSIDADE -->
-<h2 align="center">⚡ Curiosidade</h2>
+  React, Next.js, TypeScript, JavaScript, Mantine UI, Ant Design, React Hook Form, Zod, Zustand, Redux, HTML e CSS.
 
-<p align="center">
-  Minha risada lembra a do <strong>Muttley</strong> do desenho <em>"Pegue o Pombo!"</em> 😆  
-</p>
+  **Backend e dados**
 
----
+  Node.js, Express, AdonisJS, .NET/C#, APIs REST, PostgreSQL, MySQL e MongoDB.
 
-<p align="center">
-  Feito com ❤️ por <strong>Higor Maranhão Nunes</strong>
-</p>
+  **Qualidade e ferramentas**
+
+  Jest, Git, GitHub, Bitbucket, Docker, acessibilidade, UX, arquitetura modular e integração contínua.
+</details>
+
+## Como eu penso engenharia
+
+```text
+Boa tecnologia resolve o problema certo,
+é simples para quem usa e sustentável para quem mantém.
+```
+
+Por isso, meu trabalho combina três perspectivas:
+
+1. **Produto:** entender o contexto antes de escrever código.
+2. **Experiência:** reduzir atrito e tornar fluxos complexos mais claros.
+3. **Engenharia:** construir uma base legível, testável e preparada para evoluir.
+
+## GitHub em números
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HigorMN&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HigorMN&theme=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HigorMN&theme=github" alt="Estatísticas do GitHub de Higor" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HigorMN&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HigorMN&theme=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HigorMN&theme=github" alt="Linguagens mais presentes nos repositórios de Higor" />
+  </picture>
+</div>
+
+> As linguagens exibidas refletem os repositórios públicos e não representam, isoladamente, meu nível de experiência.
+
+## Vamos construir algo juntos?
+
+Gosto de desafios que envolvem produto, experiência e engenharia trabalhando na mesma direção. Se quiser conversar sobre desenvolvimento web, SaaS, ERP ou uma oportunidade profissional, entre em contato.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/higor-maranhao/"><strong>LinkedIn</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://higormn.github.io/"><strong>Portfólio</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/HigorMN"><strong>GitHub</strong></a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Quando não estou programando, provavelmente estou jogando — ou rindo igual ao Muttley. 😄</sub>
+</div>
